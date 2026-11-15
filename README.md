@@ -1,5 +1,4 @@
-𝔸 ℂ𝕠𝕠𝕝 𝕎𝕒𝕪 𝕋𝕠 𝕊𝕖𝕥𝕦𝕡 𝕒 | 𝕆𝕡𝕖𝕟 𝕍𝕡𝕟 𝕊𝕖𝕣𝕧𝕖𝕣 𝔽𝕠𝕣 𝕚𝕣𝕒𝕟☘️
-***
+
 
 # 🛡️ OpenVPN over Cloudflare Tunnel
 
